@@ -1,6 +1,6 @@
 ## ABOUT ME
 
-**Hi I'm Mert aka PhroteX. I'm Developer, gamer and a human. I work on Web Development and Javascript Development.
+**Hi I'm Mert aka PhroteX. I'm Developer, gamer and a human. I work on Web Development and Javascript Development.**
 
 
 
