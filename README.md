@@ -15,6 +15,7 @@
 <div align="center">
 <img alt="html5" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img alt="python" align="center" src="https://img.shields.io/badge/-Python-264de4?style=flat-square&logo=python&logoColor=white"/>
+<img alt="js" align="center" src="https://camo.githubusercontent.com/190fb33f1d8cf3453c2672dfee886a0e8585bf0addd146fc62f2d2de346ea4eb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176617363726970742d6564623230303f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465"/>
 </div>
 
 ## My Discord
